@@ -5,6 +5,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Airline-Operations-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Airline-Operations-Management?style=social" alt="Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Airline-Operations-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Airline-Operations-Management?color=blue&style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Airline-Operations-Management/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Airline-Operations-Management?style=flat-square&color=green" alt="Last Commit"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ![Awesome Airline Operations Management Banner](assets/banner.svg)
@@ -24,6 +25,8 @@ Whether you are an airline operations controller, flight dispatcher, crew planne
 - [🛠️ Key Functional Domains](#️-key-functional-domains)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Regulatory & Safety Disclaimer](#-regulatory--safety-disclaimer)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -97,6 +100,28 @@ We welcome contributions from airline software engineers, flight ops specialists
 ## ⚖️ Regulatory & Safety Disclaimer
 
 > ⚠️ **Important Safety Notice**: Airline operations software directly influences flight safety, crew legality compliance, and airworthiness. Open-source repositories listed here are intended strictly for **research, educational purposes, or virtual flight simulation**. Do NOT use uncertified open-source packages for live Part-121 or Part-135 commercial airline dispatch or crew legality monitoring without formal aviation authority approval.
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for exploring the **Awesome Airline Operations Management** ecosystem repository! If you find this curated list valuable for your research, project development, or industry knowledge, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your support and increase its visibility.
+- 🍴 **Fork** it to keep a copy and contribute your own additions or enhancements.
+- 📢 **Share** it with your fellow aviation software developers, flight ops controllers, and researchers.
+
+☕ If you'd like to support the ongoing maintenance and curation of open-source aviation resources, you can **Sponsor or Buy Me a Coffee**:
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/>
+</a>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Airline-Operations-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Airline-Operations-Management&type=date&legend=top-left)
 
 ---
 
