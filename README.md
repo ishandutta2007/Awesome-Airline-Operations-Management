@@ -58,9 +58,9 @@ Below is the curated list of leading enterprise SaaS platforms, **sorted by comp
 
 > 🌟 **Open-Source Status**: Certified commercial airline operations rely heavily on enterprise solutions due to strict regulatory oversight (FAR/EASA crew legality, fatigue management, real-time ACARS dispatch). However, open-source projects thrive in **ADS-B tracking**, **virtual airline management (FSX/MSFS)**, **crew pairing research**, and **ACARS message decoding**.
 
-Below is the complete list of open-source projects, **sorted by GitHub Stars (descending)**:
+Below is the complete list of open-source projects, **sorted by GitHub_Stars (descending)**:
 
-| 📦 Repository & Link | 🌟 Star Count | 📝 Description & Technical Scope |
+| 📦 Repository & Link | 🌟 Stars_Count | 📝 Description & Technical Scope |
 | :--- | :--- | :--- |
 | **[antirez/dump1090](https://github.com/antirez/dump1090)** | [![Stars](https://img.shields.io/github/stars/antirez/dump1090?style=social&color=white)](https://github.com/antirez/dump1090/stargazers) | Lightweight C-based Mode S decoder for RTLSDR devices used in real-time aircraft tracking feeds. |
 | **[FlightGear/flightgear](https://github.com/FlightGear/flightgear)** | [![Stars](https://img.shields.io/github/stars/FlightGear/flightgear?style=social&color=white)](https://github.com/FlightGear/flightgear/stargazers) | Open-source flight simulator engine and flight dynamics framework for flight ops testing and research. |
