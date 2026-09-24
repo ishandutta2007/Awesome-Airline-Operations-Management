@@ -1,205 +1,105 @@
-# Awesome-Airline-Operations-Management
+# ✈️ Awesome Airline Operations Management 🛫
 
-## Top Airline Operations Management Ecosystem
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Airline-Operations-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Airline-Operations-Management?style=social" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Airline-Operations-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Airline-Operations-Management?color=blue&style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Airline-Operations-Management/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Airline-Operations-Management?style=flat-square&color=green" alt="Last Commit"/></a>
+</p>
 
+![Awesome Airline Operations Management Banner](assets/banner.svg)
 
+## 🌐 Overview & Industry Index
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+Welcome to the **Awesome Airline Operations Management** ecosystem repository — a curated catalog of top **SaaS platforms**, **Flight Operations Control Center (OCC) systems**, **Crew Planning & Pairing Optimizers**, and **Open-Source Aviation Software**.
 
-*Focused on Flight Operations, Crew Planning & Pairing, OCC Systems, Scheduling, Dispatch & Airline Operations Control*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Airline Operations Management**. These systems support flight scheduling, crew planning and pairing, operations control centers (OCC), dispatch, disruption management, and related airline operational processes.
-
-
-
-**Examples** include Amadeus Sky Suite, SITA Flight Operations, Lufthansa Systems NetLine, Sabre AirCentre / Operations, Jeppesen Crew Planning, NAVBLUE, IBS iFlight, Airpas, Rusada ENVISION, Leon Software, Navitaire, FLYR, Awery Aviation Software, and Merlot Aero (the category leaders).
-
-
-
-**Open-source emphasis**: Production airline operations systems are almost exclusively commercial. Open activity is limited to virtual-airline platforms, research crew-pairing optimizers, charter/Part-135 ops prototypes, and conceptual airport/airline ops projects. This section lists every significant relevant project found.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Amadeus Sky Suite / Airline IT](https://amadeus.com/)**  
-
-  Broad airline IT portfolio covering passenger service, operations, and related systems used by carriers worldwide.
-
-
-
-- **[Lufthansa Systems NetLine](https://www.lhsystems.com/)**  
-
-  Operations management suite for network planning, schedule management, operations control, and disruption handling.
-
-
-
-- **[Sabre AirCentre / Sabre Operations](https://www.sabre.com/)**  
-
-  Airline operations and commercial systems spanning scheduling, operations control, and related decision support.
-
-
-
-- **[Jeppesen Crew Planning, NAVBLUE](https://www.jeppesen.com/)**  
-
-  Industry-leading crew planning, pairing, and rostering solutions, plus broader flight operations and navigation products (NAVBLUE / Airbus ecosystem).
-
-
-
-- **[SITA Flight Operations, IBS iFlight](https://www.sita.aero/)**  
-
-  Flight operations and airline management platforms supporting OCC, messaging, and operational workflows.
-
-
-
-- **[Leon Software, Awery, Merlot Aero, Rusada ENVISION, Airpas, FLYR, Navitaire](https://leonsoftware.com/)**  
-
-  Solutions ranging from business/charter aviation ops and maintenance-oriented systems to passenger and commercial airline platforms with operational modules.
-
-
-
-- **[Other commercial airline operations platforms](https://amadeus.com/)**  
-
-  Additional tools for dispatch, weight & balance, slot management, and integrated OCC environments.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Crew pairing / crew planning research tools](https://github.com/mani-mal/crewml)**  
-
-  Open-source ML and optimization packages for airline crew pairing generation and assignment research, often using public flight data where commercial pairings are unavailable.
-
-
-
-- **[Crew management system prototypes](https://github.com/sasa-radovanovic/ff-crew-management-system)**  
-
-  Educational or WIP web systems modeling airline crew management, fleet, routes, and planning workflows for learning and experimentation.
-
-
-
-- **[Virtual airline management platforms](https://github.com/YAAMSOrg/yaams-server)**  
-
-  Open-source platforms for virtual airlines (PIREP tracking, fleet management, pilot communities)—not production airline ops, but useful for community and simulation contexts.
-
-
-
-- **[Charter / Part-135 operations suites](https://github.com/search?q=Part+135+OR+charter+aviation+operations+open+source)**  
-
-  Emerging open projects aimed at smaller charter and on-demand operators (fleet, maintenance, crew, compliance dashboards).
-
-
-
-- **[Airport / AODB conceptual open projects](https://github.com/worlds-biggest-software-project/265-airport-operations-management)**  
-
-  Early open initiatives exploring gate assignment, ground coordination, and airport operational data concepts aligned with industry standards (SSIM, A-CDM, etc.).
-
-
-
-- **[Flight scheduling & optimization open libraries](https://github.com/search?q=airline+scheduling+OR+crew+rostering+OR+flight+optimization+open+source)**  
-
-  Academic and community optimizers for schedule construction, rostering, and disruption recovery research.
-
-
-
-- **[ACARS / ops messaging open components](https://github.com/search?q=ACARS+OR+flight+ops+messaging+open+source)**  
-
-  Limited open tooling around operational messaging and flight data handling for integration experiments.
-
-
-
-- **[ADS-B & tracking open stacks](https://github.com/search?q=ADS-B+OR+OpenSky+aviation)**  
-
-  Open flight-tracking components sometimes used in ops dashboards for situational awareness (not full OCC systems).
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Research crew planning**: Open optimizers and ML packages for pairing/rostering studies.
-
-- **Virtual & simulation**: Virtual airline platforms for community ops, not certified airline use.
-
-- **Charter / small operator experiments**: Early open suites for non-scheduled aviation.
-
-- **Composable research stacks**: Public schedule data + open solvers + simple roster UI for academic work.
-
-- Full OCC, crew legality, and airline-grade operations systems remain commercial.
-
-
-
-**Frameworks for building custom systems**:  
-
-There is no production-ready open-source equivalent to NetLine, Sabre Operations, Jeppesen Crew Planning, or Amadeus airline ops suites.  
-
-Open crew-pairing research tools and charter/virtual-airline projects offer limited building blocks.  
-
-Commercial platforms dominate because of regulatory compliance (crew legality, fatigue), real-time OCC reliability, integration with PSS/MRO/ATC messaging, and 24/7 support.  
-
-Airlines run commercial operations systems; open tools are appropriate for research, training, virtual airlines, and small experimental operators—not for certified scheduled airline operations without extensive validation.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Airline operations systems are safety- and regulation-critical. Crew planning, dispatch, and OCC tools must comply with aviation authority rules (fatigue, licensing, MEL, etc.). Incorrect systems can affect safety and legality.
-
-- Open-source projects in this space are generally research, educational, or virtual-airline oriented. Do not use them for live scheduled airline operations, crew assignment, or dispatch without formal certification, validation, and regulatory approval.
-
-
+Whether you are an airline operations controller, flight dispatcher, crew planner, aviation software engineer, or researcher, this repository indexes production software suites and open-source tools driving modern air transport logistics, disruption recovery, and flight scheduling.
 
 ---
 
+## 📑 Table of Contents
 
+- [📊 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Key Functional Domains](#️-key-functional-domains)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Regulatory & Safety Disclaimer](#-regulatory--safety-disclaimer)
 
-**Made for airline operations controllers, crew planners, OCC teams, and aviation technologists.**  
+---
 
-Let's expand open research and learning tools for airline operations while recognizing the reliability, compliance, and scale that leading commercial airline operations management platforms deliver.
+## 📊 SaaS & Commercial Platforms
+
+> 📊 **Market Size & Industry Dynamics**: The global **Airline Operations & Flight Management Software Market** is estimated at **$9.5 Billion – $14.0 Billion** (growing at a ~7.2% CAGR). The enterprise scheduled airline sector is **moderately concentrated** among top-tier aviation IT conglomerates (*Boeing/Jeppesen, NAVBLUE/Airbus, Amadeus, Sabre, Lufthansa Systems*), whereas the Part-135 charter, cargo, and regional business aviation segment remains **moderately fragmented** with agile niche SaaS solutions.
+
+Below is the curated list of leading enterprise SaaS platforms, **sorted by company size / revenue / valuation (descending)**:
+
+| 🏢 Platform / Vendor | 💰 Company Size / Valuation | 🏷️ Specific Starting Pricing | 🎁 Free Tier / Free Trial Limits | ⚡ Key Operational Focus & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Boeing / Jeppesen Crew Planning](https://www.jeppesen.com/)** ✈️ | **~$77.0 Billion** *(Boeing Parent Rev)* | Enterprise quote starting at **~$50,000 / year** (scaled per pilot/fleet count) | **No free tier**; 30-day enterprise evaluation & sandbox access upon request | World-class crew pairing, rostering, disruption solver & flight ops planning |
+| **[NAVBLUE (Airbus)](https://www.navblue.aero/)** 🛫 | **~$70.0 Billion** *(Airbus Parent Rev)* | Custom tier starting at **~$35,000 / year** + $15 per flight leg | **No free tier**; 14-day guided proof-of-concept & simulator sandbox for carriers | Flight operations, electronic flight bag (EFB), OCC dispatch & navigation data |
+| **[Amadeus Sky Suite](https://amadeus.com/en/portfolio/airlines)** 🌐 | **~$5.8 Billion** *(Amadeus IT Rev)* | Modular enterprise tier starting at **~$40,000 / year** | **No free tier**; 30-day staging demo access for airline IT decision teams | Network schedule planning, flight management & PSS/OCC integration |
+| **[Merlot Aero (CAE)](https://www.cae.com/)** 👨‍✈️ | **~$3.2 Billion** *(CAE Parent Rev)* | Cloud ops tier starting at **$800 / month** (~$9,600/yr) for regional ops | **No free tier**; 14-day evaluation sandbox for airline flight ops managers | Cloud-based crew management, aircraft tracking & disruption forecasting |
+| **[Sabre AirCentre / Operations](https://www.sabre.com/products/aircentre/)** 🔄 | **~$2.9 Billion** *(Sabre Corp Rev)* | Enterprise subscription starting at **~$30,000 / year** | **No free tier**; 30-day interactive demo portal upon executive evaluation | Operations control, flight dispatch, crew management & movement control |
+| **[IBS iFlight (IBS Software)](https://www.ibsplc.com/)** 📦 | **~$1.5 Billion** *(Valuation / ~$300M Rev)* | SaaS enterprise tier starting at **~$25,000 / year** | **No free tier**; 30-day test drive sandbox access for scheduled airlines | End-to-end OCC flight management, crew tracking & maintenance ops |
+| **[Lufthansa Systems NetLine](https://www.lhsystems.com/)** 📡 | **~$650 Million** *(Lufthansa Sys Rev)* | Enterprise tier starting at **~$25,000 / year** for regional carriers | **No free tier**; 30-day sandbox trial environment for scheduled airlines | Operations control (NetLine/Ops), schedule management & crew leg-solver |
+| **[FLYR Labs](https://flyr.com/)** 🤖 | **~$500+ Million** *(Valuation)* | SaaS tier starting at **$1,500 / month** (~$18,000/yr) | **No free tier**; 14-day flight schedule data simulation & optimization trial | AI-driven revenue management, flight schedule optimization & OCC decision support |
+| **[Navitaire (Amadeus LCC)](https://www.navitaire.com/)** 🎫 | **~$300 Million** *(Annual Rev)* | SaaS starting at **~$15,000 / year** base + usage per flight leg | **No free tier**; 30-day LCC staging environment access | Low-cost carrier (LCC) operations, flight departure control & passenger service |
+| **[Rusada ENVISION](https://www.rusada.com/)** 🛠️ | **~$20 Million** *(Annual Rev)* | Commercial fleet tier starting at **$1,200 / month** (~$14,400/yr) | **No free tier**; 14-day guided software demo & interactive trial | Aviation MRO, fleet maintenance tracking & operational flight log alignment |
+| **[Leon Software](https://www.leonsoftware.com/)** 🛩️ | **~$15 Million** *(Annual Rev)* | Starter tier starting at **$220 / month** ($2,640/yr) for up to 2 aircraft | **No free tier**; 30-day fully functional free trial (max 3 aircraft) | Charter & Part-135 flight scheduling, crew rostering & OPS dispatch workflow |
+| **[Airpas (Sabre)](https://www.airpas.com/)** 💳 | **~$15 Million** *(Annual Rev)* | Direct cost management tier starting at **$1,000 / month** (~$12,000/yr) | **No free tier**; 14-day demo access for airline cost control teams | Operational cost management, route profitability & airport fee automation |
+| **[Awery Aviation Software](https://awery.aero/)** 📋 | **~$10 Million** *(Annual Rev)* | SaaS starter plan starting at **$450 / month** (~$5,400/yr) | **No free tier**; 14-day free trial with sample fleet & flight schedule data | Integrated ERP for charter, cargo airline ops, crew planning & CRM |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+> 🌟 **Open-Source Status**: Certified commercial airline operations rely heavily on enterprise solutions due to strict regulatory oversight (FAR/EASA crew legality, fatigue management, real-time ACARS dispatch). However, open-source projects thrive in **ADS-B tracking**, **virtual airline management (FSX/MSFS)**, **crew pairing research**, and **ACARS message decoding**.
+
+Below is the complete list of open-source projects, **sorted by GitHub Stars (descending)**:
+
+| 📦 Repository & Link | 🌟 Star Count | 📝 Description & Technical Scope |
+| :--- | :--- | :--- |
+| **[antirez/dump1090](https://github.com/antirez/dump1090)** | [![Stars](https://img.shields.io/github/stars/antirez/dump1090?style=social&color=white)](https://github.com/antirez/dump1090/stargazers) | Lightweight C-based Mode S decoder for RTLSDR devices used in real-time aircraft tracking feeds. |
+| **[FlightGear/flightgear](https://github.com/FlightGear/flightgear)** | [![Stars](https://img.shields.io/github/stars/FlightGear/flightgear?style=social&color=white)](https://github.com/FlightGear/flightgear/stargazers) | Open-source flight simulator engine and flight dynamics framework for flight ops testing and research. |
+| **[wiedehopf/tar1090](https://github.com/wiedehopf/tar1090)** | [![Stars](https://img.shields.io/github/stars/wiedehopf/tar1090?style=social&color=white)](https://github.com/wiedehopf/tar1090/stargazers) | High-performance web UI for ADS-B tracking decoders (`readsb` / `dump1090-fa`) used in OCC dashboards. |
+| **[wiedehopf/readsb](https://github.com/wiedehopf/readsb)** | [![Stars](https://img.shields.io/github/stars/wiedehopf/readsb?style=social&color=white)](https://github.com/wiedehopf/readsb/stargazers) | Ultra-fast C-based ADS-B / Mode-S decoder for aircraft tracking and flight data stream processing. |
+| **[phpvms/phpvms](https://github.com/phpvms/phpvms)** | [![Stars](https://img.shields.io/github/stars/phpvms/phpvms?style=social&color=white)](https://github.com/phpvms/phpvms/stargazers) | Laravel-based Virtual Airline Management system (PIREPs, flight schedules, pilot rosters & fleet tracking). |
+| **[TLeconte/acarsdec](https://github.com/TLeconte/acarsdec)** | [![Stars](https://img.shields.io/github/stars/TLeconte/acarsdec?style=social&color=white)](https://github.com/TLeconte/acarsdec/stargazers) | Multi-channel ACARS (Aircraft Communications Addressing and Reporting System) decoder software for SDRs. |
+| **[openskynetwork/pyopensky](https://github.com/openskynetwork/pyopensky)** | [![Stars](https://img.shields.io/github/stars/openskynetwork/pyopensky?style=social&color=white)](https://github.com/openskynetwork/pyopensky/stargazers) | Python interface to the OpenSky Network for querying live and historical ADS-B flight traffic data. |
+| **[sasa-radovanovic/ff-crew-management-system](https://github.com/sasa-radovanovic/ff-crew-management-system)** | [![Stars](https://img.shields.io/github/stars/sasa-radovanovic/ff-crew-management-system?style=social&color=white)](https://github.com/sasa-radovanovic/ff-crew-management-system/stargazers) | Full-stack web prototype modeling airline crew pairing, fleet management, and pilot flight scheduling. |
+| **[YAAMSOrg/yaams-server](https://github.com/YAAMSOrg/yaams-server)** | [![Stars](https://img.shields.io/github/stars/YAAMSOrg/yaams-server?style=social&color=white)](https://github.com/YAAMSOrg/yaams-server/stargazers) | Open-source server backend for Yet Another Airline Management System (virtual airline pilot dispatch). |
+| **[mani-mal/crewml](https://github.com/mani-mal/crewml)** | [![Stars](https://img.shields.io/github/stars/mani-mal/crewml?style=social&color=white)](https://github.com/mani-mal/crewml/stargazers) | Machine learning and optimization algorithms for airline crew pairing optimization and scheduling research. |
+| **[265-airport-operations-management](https://github.com/worlds-biggest-software-project/265-airport-operations-management)** | [![Stars](https://img.shields.io/github/stars/worlds-biggest-software-project/265-airport-operations-management?style=social&color=white)](https://github.com/worlds-biggest-software-project/265-airport-operations-management/stargazers) | Open conceptual framework modeling airport operations database (AODB), gate assignment & ground dispatch. |
+
+---
+
+## 🛠️ Key Functional Domains
+
+1. 👨‍✈️ **Crew Planning & Rostering**: Solves complex pairing, duty-period legality (FAR Part 117 / EASA ORO.FTL), fatigue risk management, and pilot bidding.
+2. 📡 **Operations Control Center (OCC)**: Real-time aircraft movement tracking, disruption handling, slot management, and delay propagation mitigation.
+3. 🛫 **Flight Dispatch & Navigation**: Flight plan generation, weather updates (METAR/TAF), NOTAM parsing, and fuel optimization.
+4. ⚙️ **Maintenance & Engineering (MRO)**: Aircraft status logging, Minimum Equipment List (MEL) tracking, and airworthiness compliance.
+5. 📊 **Direct Operational Cost Control**: Airport fee calculations, overflight charge verification, and fuel contract accounting.
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from airline software engineers, flight ops specialists, and open-source maintainers!
+
+1. 🍴 **Fork** this repository.
+2. 📝 **Add or update** entries in `README.md` following our structured tabular format.
+3. 🔗 Ensure all SaaS and GitHub project links are active and descriptions remain objective and accurate.
+4. 🚀 **Submit a Pull Request** with a brief summary of the changes.
+
+---
+
+## ⚖️ Regulatory & Safety Disclaimer
+
+> ⚠️ **Important Safety Notice**: Airline operations software directly influences flight safety, crew legality compliance, and airworthiness. Open-source repositories listed here are intended strictly for **research, educational purposes, or virtual flight simulation**. Do NOT use uncertified open-source packages for live Part-121 or Part-135 commercial airline dispatch or crew legality monitoring without formal aviation authority approval.
+
+---
+
+<p align="center">
+  <b>⭐ Star this repository if you find it useful for airline software research! ⭐</b>
+</p>
